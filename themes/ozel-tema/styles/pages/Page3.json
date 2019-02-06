@@ -1,0 +1,21 @@
+{
+	"#page3": {
+		".submit": {
+			"backgroundColor": "rgba( 208, 2, 27, 1 )",
+			"textColor": "rgba( 248, 231, 28, 1 )",
+			"font": {
+				"size": 20,
+				"bold": true,
+				"italic": false,
+				"family": "SFProText",
+				"style": "Semibold"
+			}
+		},
+		".maviText": {
+			"textColor": "rgba( 17, 67, 184, 1 )"
+		},
+		".kirmiziText": {
+			"textColor": "rgba( 255, 0, 0, 1 )"
+		}
+	}
+}

@@ -1,0 +1,124 @@
+{
+	"components": [
+		{
+			"className": ".sf-page",
+			"id": "e2f4-bc12-1e02-0b1b",
+			"initialized": true,
+			"props": {
+				"children": [
+					"9091-746d-0ba9-8d72",
+					"d5f1-7dc0-2974-b86e",
+					"e90c-a1f8-6155-1ea9",
+					"c6ed-5050-a3d6-b9c9",
+					"5d72-708a-20f1-7fe0"
+				],
+				"name": "page3",
+				"orientation": "PORTRAIT",
+				"parent": null
+			},
+			"type": "Page",
+			"userProps": {},
+			"version": "6.14.1"
+		},
+		{
+			"className": ".sf-statusBar",
+			"id": "9091-746d-0ba9-8d72",
+			"props": {
+				"children": [],
+				"isRemovable": false,
+				"name": "statusBar",
+				"parent": "e2f4-bc12-1e02-0b1b"
+			},
+			"type": "StatusBar",
+			"userProps": {}
+		},
+		{
+			"className": ".sf-headerBar",
+			"id": "d5f1-7dc0-2974-b86e",
+			"props": {
+				"children": [],
+				"isRemovable": false,
+				"name": "headerBar",
+				"parent": "e2f4-bc12-1e02-0b1b",
+				"title": "newPage001"
+			},
+			"type": "HeaderBar",
+			"userProps": {
+				"title": "newPage001"
+			}
+		},
+		{
+			"className": ".sf-button #page3.submit",
+			"id": "e90c-a1f8-6155-1ea9",
+			"props": {
+				"autoHeight": 50.561797752808985,
+				"children": [],
+				"name": "button1",
+				"parent": "e2f4-bc12-1e02-0b1b",
+				"text": "button1"
+			},
+			"type": "Button",
+			"userProps": {
+				"autoHeight": 50.561797752808985,
+				"text": "button1"
+			}
+		},
+		{
+			"className": ".sf-textBox #page3.kirmiziText",
+			"id": "c6ed-5050-a3d6-b9c9",
+			"props": {
+				"autoHeight": 55.056179775280896,
+				"children": [],
+				"name": "textBox1",
+				"parent": "e2f4-bc12-1e02-0b1b",
+				"text": "  textBox1"
+			},
+			"type": "TextBox",
+			"userProps": {
+				"autoHeight": 55.056179775280896,
+				"text": "  textBox1"
+			}
+		},
+		{
+			"className": ".sf-flexLayout",
+			"hiddenComponent": false,
+			"id": "5d72-708a-20f1-7fe0",
+			"initialized": false,
+			"props": {
+				"children": [],
+				"name": "checkBox",
+				"parent": "e2f4-bc12-1e02-0b1b",
+				"usePageVariable": true
+			},
+			"source": {
+				"page": "__library__",
+				"type": "deneme1",
+				"id": "7e3d-a7de-5347-2949"
+			},
+			"type": "FlexLayout",
+			"userProps": {
+				"borderColor": "rgba( 255, 0, 0, 1 )",
+				"borderWidth": 1,
+				"flex": {
+					"positionType": 0,
+					"alignSelf": 2,
+					"alignItems": 4,
+					"justifyContent": 1
+				},
+				"flexProps": {
+					"positionType": "RELATIVE",
+					"alignSelf": "CENTER",
+					"alignItems": "STRETCH",
+					"justifyContent": "CENTER"
+				},
+				"height": 212.96296296296296,
+				"marginBottom": null,
+				"marginTop": null,
+				"paddingLeft": 20,
+				"paddingRight": 20,
+				"usePageVariable": true,
+				"width": 259.7061722366898
+			}
+		}
+	]
+}
